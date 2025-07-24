@@ -1,0 +1,60 @@
+[
+    {
+        "nama" : "floryn",
+        "role" : "support",
+        "win rate" : "57.77%",
+        "counters" : [
+            "faramis",
+            "belerick",
+            "x.borg",
+            "diggie"
+        ],
+        "pick rate" : "1.06%",
+        "skill" : [
+            "dew",
+            "sow",
+            "sprout",
+            "bloom"
+        ]
+    },
+
+    {
+        "nama" : "carmila",
+        "role" : "tank",
+        "win rate" : "52.21%",
+        "counters" : [
+            "chip",
+            "popol and kupa",
+            "barats",
+            "fredrinn",
+            "Minsitthar"
+        ],
+        "pick rate" : "0.41%",
+        "skill" : [
+            "vampire pact",
+            "crimson flower",
+            "bloodbath",
+            "curse of blood"
+        ]
+    },
+
+    {
+        "nama" : "layla",
+        "role" : "tank",
+        "win rate" : "49.36%",
+        "counters" : [
+            "rafaela",
+            "diggie",
+            "cyclops",
+            "wanwan",
+            "irithel"
+        ],
+        "pick rate" : "0.41%",
+        "skill" : [
+            "malefic gun",
+            "malefic bomb",
+            "void projrctile",
+            "desruction rush"
+        ]
+    }
+]
