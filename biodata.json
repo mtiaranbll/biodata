@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "mutiara nabila n",
+        "tempat_lahir" : "bandung",
+        "tanggal-lahir" : "2009-01-30",
+        "alamat" : {
+            "jalan" : "jl,sadang",
+            "desa" : "margahayu",
+            "kecamatan" : "margahayu tengah"
+        },
+        "hobi" : [
+            "berenang",
+            "menonton"
+        ],
+        "kontak" : {
+            "email" : "mutiaramarhas@gmail.com",
+            "whatsapp" : "083823257288",
+            "instagram" : "mtiaranbll",
+            "github" : "mtiaranbll",
+            "tiktok" : "princess"
+        }
+    }
+]
